@@ -1,4 +1,4 @@
-﻿# Use the official Microsoft .NET SDK image to build the app
+# Use the official Microsoft .NET SDK image to build the app
 FROM ://microsoft.com AS build-env
 WORKDIR /app
 
